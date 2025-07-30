@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://busharjahashaik.github.io/frontendproject2",
+  "homepage": "https://github.com/SnehaVakkalagadda/FrontEndProject2.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
